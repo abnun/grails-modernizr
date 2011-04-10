@@ -1,0 +1,51 @@
+Modernizr License
+----------------------------------------------------------------
+MIT License
+
+   1. Copyright (c) 2009–2010 Faruk Ateş
+   2.
+   3. Permission is hereby granted, free of charge, to any person obtaining a copy
+   4. of this software and associated documentation files (the "Software"), to deal
+   5. in the Software without restriction, including without limitation the rights
+   6. to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+   7. copies of the Software, and to permit persons to whom the Software is
+   8. furnished to do so, subject to the following conditions:
+   9.
+  10. The above copyright notice and this permission notice shall be included in
+  11. all copies or substantial portions of the Software.
+  12.
+  13. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  14. IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  15. FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  16. AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  17. LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  18. OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+  19. THE SOFTWARE.
+
+----------------------------------------------------------------
+BSD License
+
+   1. Copyright (c) 2010, Faruk Ateş
+   2. All rights reserved.
+   3.
+   4. Redistribution and use in source and binary forms, with or without
+   5. modification, are permitted provided that the following conditions are met:
+   6.   * Redistributions of source code must retain the above copyright
+   7.     notice, this list of conditions and the following disclaimer.
+   8.   * Redistributions in binary form must reproduce the above copyright
+   9.     notice, this list of conditions and the following disclaimer in the
+  10.     documentation and/or other materials provided with the distribution.
+  11.   * Neither the name of the Organization nor the
+  12.     names of its contributors may be used to endorse or promote products
+  13.     derived from this software without specific prior written permission.
+  14.
+  15. THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+  16. ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+  17. WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+  18. DISCLAIMED. IN NO EVENT SHALL COPYRIGHT HOLDER BE LIABLE FOR ANY
+  19. DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+  20. (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+  21. LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+  22. ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+  23. (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+  24. SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.

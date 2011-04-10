@@ -1,0 +1,15 @@
+<plugin name='modernizr' version='1.7' grailsVersion='1.3.6 &gt; *'>
+  <author>Markus Mueller</author>
+  <title>Modernizr Javascript Framework</title>
+  <description>Provides the Modernizr Javascript framework resource files from http://www.modernizr.com/</description>
+  <documentation>http://grails.org/plugin/modernizr</documentation>
+  <resources>
+    <resource>BuildConfig</resource>
+    <resource>Config</resource>
+    <resource>DataSource</resource>
+    <resource>ModernizrPluginResources</resource>
+    <resource>UrlMappings</resource>
+  </resources>
+  <dependencies />
+  <behavior />
+</plugin>
