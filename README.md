@@ -1,8 +1,8 @@
 # Modernizr Plugin
 
 Provides the Modernizr Javascript library resource files from [http://www.modernizr.com/](http://www.modernizr.com/).
-The resources are declared inside the file 'ModernizrPluginResources.groovy', so you have to use the Resources
-Framework [http://grails.org/plugin/resources](http://grails.org/plugin/resources) to take advantage of this plugin.
+The resources are declared inside the file '/grails-app/conf/ModernizrPluginResources.groovy', so you have to use the Resources
+Framework ([http://grails.org/plugin/resources](http://grails.org/plugin/resources)) to take advantage of this plugin.
 
 ## Installation
 

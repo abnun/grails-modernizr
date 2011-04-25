@@ -26,6 +26,7 @@ grails.project.dependency.resolution = {
 
 	plugins {
 		//build ':resources:1.0-RC2-SNAPSHOT'
+		build(':maven-publisher:latest.integration')
 	}
 
     dependencies {
