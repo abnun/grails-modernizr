@@ -1,9 +1,9 @@
-<plugin name='modernizr' version='1.7.1' grailsVersion='1.3.6 &gt; *'>
+<plugin name='modernizr' version='1.7.2' grailsVersion='1.3.6 &gt; *'>
   <author>Markus Mueller</author>
   <authorEmail>abnun@gmx.de</authorEmail>
   <title>Modernizr Javascript Library</title>
   <description>Provides the Modernizr Javascript library resource files from http://www.modernizr.com/</description>
-  <documentation>http://grails.org/plugin/modernizr</documentation>
+  <documentation>https://github.com/abnun/grails-modernizr/</documentation>
   <resources>
     <resource>BuildConfig</resource>
     <resource>Config</resource>

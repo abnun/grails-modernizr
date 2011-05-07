@@ -1,6 +1,6 @@
 class ModernizrGrailsPlugin {
     // the plugin version
-    def version = "1.7.1"
+    def version = "1.7.2"
     // the version or versions of Grails the plugin is designed for
     def grailsVersion = "1.3.6 > *"
     // the other plugins this plugin depends on
@@ -17,8 +17,10 @@ class ModernizrGrailsPlugin {
     def title = "Modernizr Javascript Library"
     def description = '''Provides the Modernizr Javascript library resource files from http://www.modernizr.com/'''
 
-    // URL to the plugin's documentation
-    def documentation = "http://grails.org/plugin/modernizr"
+	def scm = [ url: "https://github.com/abnun/grails-modernizr/" ]
+
+	// URL to the plugin's documentation
+	def documentation = "https://github.com/abnun/grails-modernizr/"
 
     def doWithWebDescriptor = { xml ->
         // TODO Implement additions to web.xml (optional), this event occurs before 
